@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
