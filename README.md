@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
