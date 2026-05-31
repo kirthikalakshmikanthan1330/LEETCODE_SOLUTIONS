@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
