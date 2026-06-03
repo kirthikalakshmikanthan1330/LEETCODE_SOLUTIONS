@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
