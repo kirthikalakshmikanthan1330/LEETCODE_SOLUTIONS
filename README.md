@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
