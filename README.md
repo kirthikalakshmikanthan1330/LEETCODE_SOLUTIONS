@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
