@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1070-product-sales-analysis-iii) |
