@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1484-group-sold-products-by-the-date) |
