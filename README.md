@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
