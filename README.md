@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 ## Greedy
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
