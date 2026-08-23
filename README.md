@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
