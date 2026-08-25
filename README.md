@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
