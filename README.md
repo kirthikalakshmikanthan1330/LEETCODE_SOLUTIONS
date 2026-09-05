@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0791-custom-sort-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Stack
 |  |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
