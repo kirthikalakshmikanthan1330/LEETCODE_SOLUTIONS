@@ -572,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
