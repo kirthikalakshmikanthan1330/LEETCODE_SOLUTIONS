@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
+| [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
