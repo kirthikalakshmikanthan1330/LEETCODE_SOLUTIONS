@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
