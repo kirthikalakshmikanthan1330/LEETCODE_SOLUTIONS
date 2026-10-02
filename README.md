@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
