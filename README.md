@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-snakes-and-ladders](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 ## Two Pointers
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 ## Greedy
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
