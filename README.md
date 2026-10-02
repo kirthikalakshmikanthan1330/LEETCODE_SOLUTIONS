@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
 |  |
 | ------- |
