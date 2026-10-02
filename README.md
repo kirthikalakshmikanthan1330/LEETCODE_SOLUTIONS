@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Hash Table
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 ## Greedy
 |  |
 | ------- |
