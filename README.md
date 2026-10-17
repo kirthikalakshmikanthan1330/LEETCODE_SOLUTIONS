@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
