@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
+| [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -645,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
