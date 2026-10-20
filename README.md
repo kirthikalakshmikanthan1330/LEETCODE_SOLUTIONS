@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0664-strange-printer) |
 | [0791-custom-sort-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0791-custom-sort-string) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
