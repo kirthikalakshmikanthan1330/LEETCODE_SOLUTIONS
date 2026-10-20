@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
