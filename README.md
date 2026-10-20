@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 | [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
+| [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
+| [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1630-arithmetic-subarrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1630-arithmetic-subarrays) |
 | [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
+| [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -701,4 +704,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
+## Ordered Set
+|  |
+| ------- |
+| [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
 <!---LeetCode Topics End-->
