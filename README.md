@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0343-integer-break) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -662,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
