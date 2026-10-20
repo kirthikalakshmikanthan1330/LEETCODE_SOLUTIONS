@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Hash Table
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## String
 |  |
 | ------- |
