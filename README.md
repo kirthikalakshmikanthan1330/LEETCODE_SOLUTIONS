@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1630-arithmetic-subarrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1630-arithmetic-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1630-arithmetic-subarrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1630-arithmetic-subarrays) |
 | [3024-type-of-triangle](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1630-arithmetic-subarrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1630-arithmetic-subarrays) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Stack
 |  |
