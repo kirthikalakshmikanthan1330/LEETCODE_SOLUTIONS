@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/1048-longest-string-chain) |
 ## Sorting
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Lifting
 |  |
 | ------- |
