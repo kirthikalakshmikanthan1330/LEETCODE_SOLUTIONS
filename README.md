@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0155-min-stack) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
