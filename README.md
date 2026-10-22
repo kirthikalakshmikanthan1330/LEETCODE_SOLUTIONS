@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
