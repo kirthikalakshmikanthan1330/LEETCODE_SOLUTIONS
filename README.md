@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
