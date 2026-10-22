@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -750,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3102-minimize-manhattan-distances](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/3102-minimize-manhattan-distances) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kirthikalakshmikanthan1330/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
